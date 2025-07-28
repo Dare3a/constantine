@@ -596,7 +596,7 @@ function IsInjected($str)
 
                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 
-                              <a class="dropdown-item" href="../classic-single-room/">CLASSIC SINGLE ROOW</a>
+                              <a class="dropdown-item" href="../classic-single-room/">CLASSIC SINGLE ROOM</a>
 
                               <a class="dropdown-item" href="../superior-single-room/">SUPERIOR SINGLE ROOM</a>
 
