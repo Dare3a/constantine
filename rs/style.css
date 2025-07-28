@@ -1,0 +1,65 @@
+#mc_embed_signup {
+    color: white !important;
+    margin: auto !important;
+    background: #151e21 !important;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 600px;
+}
+    /* CSS za header */
+        header {
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+        
+        /* CSS za logo */
+        .logo {
+            float: left;
+        }
+        
+        /* CSS za navigacioni meni */
+        nav {
+            float: right;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin-left: 10px;
+        }
+        
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        
+        
+		 @media screen and (max-width: 600px) {
+            /* Stilovi za prikaz menija na mobilnim uređajima */
+            .nav-links {
+                display: none;
+            }
+            
+            .nav-links.show {
+                display: block;
+            }
+            
+            .nav-links.show li {
+                text-align: center;
+                margin: 10px 0;
+            }
+            
+            .nav-toggle {
+                display: block;
+                text-align: center;
+                cursor: pointer;
+                padding: 10px;
+                background-color: #f2f2f2;
+            }
+        }
+	

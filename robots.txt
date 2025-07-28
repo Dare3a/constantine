@@ -1,0 +1,5 @@
+Sitemap: https://constantinethegreatbelgrade.com/sitemap.xml
+
+User-agent: *
+Allow: /
+
