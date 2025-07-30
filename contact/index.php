@@ -428,7 +428,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../classic-single-room/">
 
-                                       CLASSIC SINGLE ROOM<br>
+                                       STANDARD SINGLE ROOM<br>
 
                                        <div class="item-image">
 
@@ -446,7 +446,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../superior-twin-room/">
 
-                                       SUPERIOR TWIN ROOM<br>
+                                       DELUXE TWIN ROOM<br>
 
                                        <div class="item-image">
 
@@ -468,7 +468,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../superior-single-room/">
 
-                                       SUPERIOR SINGLE ROOM<br>
+                                       STANDARD DOUBLE ROOM<br>
 
                                        <div class="item-image">
 
@@ -486,7 +486,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../family-room/">
 
-                                       FAMILY ROOM<br>
+                                       FAMILY SUITE<br>
 
                                        <div class="item-image">
 
@@ -508,7 +508,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../classic-double-room/">
 
-                                       CLASSIC DOUBLE ROOM<br>
+                                       SUPERIOR DOUBLE ROOM<br>
 
                                        <div class="item-image">
 
@@ -548,7 +548,7 @@ function IsInjected($str)
 
                                     <a class="dropdown-item" href="../superior-double-room/">
 
-                                       SUPERIOR DOUBLE ROOM<br>
+                                       DELUXE DOUBLE ROOM<br>
 
                                        <div class="item-image">
 
@@ -596,17 +596,17 @@ function IsInjected($str)
 
                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 
-                              <a class="dropdown-item" href="../classic-single-room/">CLASSIC SINGLE ROOM</a>
+                              <a class="dropdown-item" href="../classic-single-room/">STANDARD SINGLE ROOM</a>
 
-                              <a class="dropdown-item" href="../superior-single-room/">SUPERIOR SINGLE ROOM</a>
+                              <a class="dropdown-item" href="../superior-single-room/">STANDARD DOUBLE ROOM</a>
 
-                              <a class="dropdown-item" href="../classic-double-room/">CLASSIC DOUBLE ROOM</a>
+                              <a class="dropdown-item" href="../classic-double-room/">SUPERIOR DOUBLE ROOM</a>
 
-                              <a class="dropdown-item" href="../superior-double-room/">SUPERIOR DOUBLE ROOM</a>
+                              <a class="dropdown-item" href="../superior-double-room/">DELUXE DOUBLE ROOM</a>
 
-                              <a class="dropdown-item" href="../superior-twin-room/">SUPERIOR TWIN ROOM</a>
+                              <a class="dropdown-item" href="../superior-twin-room/">DELUXE TWIN ROOM</a>
 
-                              <a class="dropdown-item" href="../family-room/">FAMILY ROOM</a>
+                              <a class="dropdown-item" href="../family-room/">FAMILY SUITE</a>
 
                               <a class="dropdown-item" href="../junior-suite/">JUNIOR SUITE</a>
 
