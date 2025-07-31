@@ -620,7 +620,7 @@ function IsInjected($str)
 
                      <li class="nav-item" id="gl-meni">
 
-                        <a class="nav-link" href="../restaurant-belgrade/">RESTAURANT <img src="../img/italy-flag.png" id="italy"style="max-width:15px;margin-top:-30px;margin-left:-10px;"></a>
+                        <a class="nav-link" href="../restaurant-belgrade/">RESTAURANT</a>
 
                      </li>
 
