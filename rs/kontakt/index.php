@@ -183,7 +183,7 @@ function IsInjected($str)
 		
 		<div id="call" class="call-mob">
 
-            <a class="cc-list cc-button" href="tel:+381 60 88 98 340:" style="text-decoration:none;">
+            <a class="cc-list cc-button" href="tel:+381608898340:" style="text-decoration:none;">
 					 <img class="img-fluid" src="../img/call1.png" style="max-width:35px;">
                 
             </a>
@@ -191,7 +191,7 @@ function IsInjected($str)
 		
 		
 <div id="call" class="call-desk">
-            <a class="cc-list cc-button" href="tel:+381 60 88 98 340" style="text-decoration:none;">
+            <a class="cc-list cc-button" href="tel:+381608898340" style="text-decoration:none;">
                
                 <p>  <i class="fa fa-phone" style="margin-right:5px;"></i> +381 60 88 98 340 </p>
             </a>
@@ -219,7 +219,7 @@ function IsInjected($str)
   <li class="nav-item" style="margin-top:10px; margin-right:10px;">
     <div class="container-fluid" id="topheader">
     <h4>Hotel Constantine the Great, 27. marta 12, 11000 Beograd, Srbija | <i class="fa fa-phone" aria-hidden="true" style="color:white;margin-left:10px;font-size: 20px;;"></i>
-	<a href="tel:+381 11 40 12 457" style="color:white; text-decoration:none;"> +381 11 40 12 457</a>   <i class="fa fa-mobile" aria-hidden="true"style="margin-left:10px;font-size: 20px;"></i><a href="tel:+381 60 88 98 340" style="color:white; text-decoration:none;"> +381 60 88 98 340</a></h4>
+	<a href="tel:+381 11 40 12 457" style="color:white; text-decoration:none;"> +381 11 40 12 457</a>   <i class="fa fa-mobile" aria-hidden="true"style="margin-left:10px;font-size: 20px;"></i><a href="tel:+381608898340" style="color:white; text-decoration:none;"> +381 60 88 98 340</a></h4>
 </div>
 	</li>
 	</ul>    </div>
@@ -406,7 +406,7 @@ SOBE I APARTMANI
 	<p>
 	<a href="tel:+381 11 40 12 457 " style="color:#535353; text-decoration:none;">+381 11 40 12 457 </a>
 	<br>
-	<a href="tel:+381 60 88 98 340" style="color:#535353; text-decoration:none;">+381 60 88 98 340</a>
+	<a href="tel:+381608898340" style="color:#535353; text-decoration:none;">+381 60 88 98 340</a>
 	</p>
   </div>
   
