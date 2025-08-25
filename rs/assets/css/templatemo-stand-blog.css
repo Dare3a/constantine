@@ -869,8 +869,8 @@ form.newsletterform .mt-5 {
 
 	}
 }
-#gl-meni{
-	margin-top:-2px;
+.gl-meni{
+	margin-top:-2px !important;
 }
 .dropdown button{
 background-color:#151e21;

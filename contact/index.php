@@ -618,25 +618,25 @@ function IsInjected($str)
 
                      </li>
 
-                     <li class="nav-item" id="gl-meni">
+                     <li class="nav-item gl-meni">
 
                         <a class="nav-link" href="../restaurant-belgrade/">RESTAURANT</a>
 
                      </li>
 
-                     <li class="nav-item" id="gl-meni">
+                     <li class="nav-item gl-meni">
 
                         <a class="nav-link" href="../congress/">CONGRESS</a>
 
                      </li>
 
-                     <li class="nav-item" id="gl-meni">
+                     <li class="nav-item gl-meni">
 
                         <a class="nav-link" href="../gallery/">Gallery</a>
 
                      </li>
 
-                     <li class="nav-item" id="gl-meni">
+                     <li class="nav-item gl-meni">
 
                         <a class="nav-link" href="../blog/">BLOG</a>
 
