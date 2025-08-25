@@ -369,10 +369,10 @@ SOBE I APARTMANI
 			  <li class="nav-item active" id="gl-meni">
                 <a class="nav-link" href="../kontakt/">KONTAKT</a>
               </li> 
-			  <li class="nav-item" id="jezici">
+			  <li class="nav-item jezici">
                 <a class="nav-link" href="../../"><img src="../img/eng.png" alt="EN"></a>
               </li>
-			  <li class="nav-item" id="jezici">
+			  <li class="nav-item jezici">
                 <a class="nav-link" href="../"><img src="../img/rs.png" alt="RS"></a>
               </li>
             </ul>

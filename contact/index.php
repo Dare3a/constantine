@@ -648,13 +648,13 @@ function IsInjected($str)
 
                      </li>
 
-                     <li class="nav-item" id="jezici">
+                     <li class="nav-item jezici">
 
                         <a class="nav-link" href=""><img src="../img/eng.png"></a>
 
                      </li>
 
-                     <li class="nav-item" id="jezici">
+                     <li class="nav-item jezici">
 
                         <a class="nav-link" href="../rs/"><img src="../img/rs.png"></a>
 
