@@ -312,7 +312,7 @@ function IsInjected($str)
 
       </div>
 
-      <div id="call" class="call-mob">
+      <div class="call-mob call">
 
          <a class="cc-list cc-button" href="tel:+381608898340:" style="text-decoration:none;">
 
@@ -322,7 +322,7 @@ function IsInjected($str)
 
       </div>
 
-      <div id="call" class="call-desk">
+      <div class="call-desk call">
 
          <a class="cc-list cc-button" href="tel:+381608898340" style="text-decoration:none;">
 

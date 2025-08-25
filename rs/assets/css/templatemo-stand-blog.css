@@ -192,7 +192,7 @@ padding-top: 370px !important;
 .lightbox{
     z-index: 10000000 !important;}
 
-#call .cc-button {
+.call .cc-button {
     display: flex;
     position: fixed;
     bottom: 7px;
@@ -202,11 +202,11 @@ padding-top: 370px !important;
     z-index: 100000;
 }
 
-#call .cc-button .cc-chat-icon i, #call .cc-button:hover p {
+.call .cc-button .cc-chat-icon i, .call .cc-button:hover p {
     box-shadow: 0 0px 2px #222;
     text-decoration: none;
 }
-#call .cc-button .cc-chat-icon i, #call .cc-button p {
+.call .cc-button .cc-chat-icon i, .call .cc-button p {
 	padding-top:8px;
 	padding-bottom:8px;
 	padding-left:8px;
@@ -1313,7 +1313,7 @@ width: 80vw !important;
 	margin-top: 0px  !important; 
      margin-left: 3px  !important;
 	}
- #call .cc-button{
+ .call .cc-button{
 		bottom:27px !important;
 		right: 0.9em !important;
 	}
