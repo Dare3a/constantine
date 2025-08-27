@@ -258,7 +258,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../klasicna-jednokrevetna-soba/">
                                                 KLASIK JEDNOKREVETNA<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom1.png">
+                                                    <img src="../img/menuroom1.png" alt="menuroom1">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -267,7 +267,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../superior-dvokrevetna-soba/">
                                                 SUPERIOR DVOKREVETNA<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom5.png">
+                                                    <img src="../img/menuroom5.png" alt="menuroom5">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -278,7 +278,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../superior-jednokrevetna-soba/">
                                                 SUPERIOR JEDNOKREVETNA<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom2.png">
+                                                    <img src="../img/menuroom2.png" alt="menuroom2">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -287,7 +287,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../porodicna-soba/">
                                                PORODIČNA SOBA<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom6.png">
+                                                    <img src="../img/menuroom6.png" alt="menuroom6">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -298,7 +298,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../klasicna-dvokrevetna-soba/">
                                                KLASIK DVOKREVETNA<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom5.png">
+                                                    <img src="../img/menuroom5.png" alt="menuroom5">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -307,7 +307,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../junior-apartman/">
                                                 JUNIOR APARTMAN<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom7.png">
+                                                    <img src="../img/menuroom7.png" alt="menuroom7">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -318,7 +318,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../superior-dvokrevetna-soba-sa-francuskim-lezajem/">
                                                 SUPERIOR DVOKREVETNA-FRANCUSKI<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom4.png">
+                                                    <img src="../img/menuroom4.png" alt="menuroom4">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
@@ -328,7 +328,7 @@ SOBE I APARTMANI
                                             <a class="dropdown-item" href="../sve-sobe/">
                                                 SVE SOBE<br>
                                                 <div class="item-image">
-                                                    <img src="../img/menuroom10.png">
+                                                    <img src="../img/menuroom10.png" alt="menuroom10">
                                                 </div>
                                                 <div class="boxx2"> </div>
                                             </a>
