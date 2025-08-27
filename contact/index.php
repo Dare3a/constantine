@@ -336,7 +336,7 @@ function IsInjected($str)
 
          <a class="cc-list cc-button" href="https://msng.link/o/?381608898340=vi" style="text-decoration:none;" target="_blank">
 
-         <img class="img-fluid" src="../img/viber.png">
+         <img class="img-fluid" src="../img/viber.png" alt="viber">
 
          </a>
 
