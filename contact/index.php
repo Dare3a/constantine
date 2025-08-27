@@ -420,7 +420,7 @@ function IsInjected($str)
 
                            </button>
 
-                           <div class="dropdown-menu" aria-labelledby="navbarDropdown" data-bs-popper="none">
+                           <div class="dropdown-menu" data-bs-popper="none">
 
                               <ul class="hideme">
 
