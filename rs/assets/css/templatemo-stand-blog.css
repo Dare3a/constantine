@@ -204,7 +204,7 @@ span.reqired {
     src: url('../fonts/Barlow-Thin.ttf') format('truetype');
 }
 
-#treat-yourself .card-body {
+.treat-yourself .card-body {
     height: 120px;
 
 }
@@ -1620,7 +1620,7 @@ a.footerlink, a.footerlink:hover, a.footerlink:visited {
         margin-bottom: 20px;
     }
 
-    #treat-yourself .card {
+    .treat-yourself .card {
 
         margin-bottom: 20px;
     }
@@ -1645,7 +1645,7 @@ a.footerlink, a.footerlink:hover, a.footerlink:visited {
         padding-top: 50px !important;
     }
 
-    #treat-yourself {
+    .treat-yourself {
         padding-top: 80px !important;
         padding-bottom: 80px !important;
     }
