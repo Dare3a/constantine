@@ -1501,12 +1501,12 @@ a.footerlink, a.footerlink:hover, a.footerlink:visited {
         font-size: 25px;
     }
 
-    #akcija {
+    .akcija {
         padding: 10px;
         width: 80vw !important;
     }
 
-    #akcija h3 {
+    .akcija h3 {
         font-size: 22px;
     }
 
