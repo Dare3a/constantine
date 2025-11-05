@@ -1364,7 +1364,7 @@ a.footerlink, a.footerlink:hover, a.footerlink:visited {
     max-width: 32px;
 }
 
-.dining {
+#dining {
     height: 400px;
     background-image: url(../../img/restaurant-photo.jpg);
     background-position: center center;
